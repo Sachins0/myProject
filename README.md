@@ -103,7 +103,7 @@ pip install <module_name>
 
 ### output
 <div>
- <video src="./stable-fast-3d-main/demo_files/output.mp4" width="320" height="240" controls></video>
+ <img src="./stable-fast-3d-main/output/0/output.gif" ></img>
 </div>
 
 ## Task 2: Create a One-Click Installer
