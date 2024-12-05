@@ -3,7 +3,7 @@
 ## VI3W Task
 
 <div align="center">
-  <img src="./stable-fast-3d/demo_files/teaser.gif" alt="Teaser">
+  <img src="./stable-fast-3d-main/demo_files/teaser.gif" alt="Teaser">
 </div>
 
 <br>
@@ -98,12 +98,12 @@ pip install <module_name>
 
 ### input
 <div>
-  <img src="./stable-fast-3d/output/0/input.png" alt="input" width= "200px">
+  <img src="./stable-fast-3d-main/output/0/input.png" alt="input" width= "200px">
 </div>
 
 ### output
 <div>
- <video src="./stable-fast-3d/demo_files/output.mp4" width="320" height="240" controls></video>
+ <video src="./stable-fast-3d-main/demo_files/output.mp4" width="320" height="240" controls></video>
 </div>
 
 ## Task 2: Create a One-Click Installer
@@ -125,5 +125,5 @@ machine with just a few clicks.
 
 ### video
 <div>
- <video src="./stable-fast-3d/demo_files/dockerfile.mp4"controls></video>
+ <video src="./stable-fast-3d-main/demo_files/dockerfile.mp4"controls></video>
 </div>
